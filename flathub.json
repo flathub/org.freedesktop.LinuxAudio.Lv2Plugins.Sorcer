@@ -1,4 +1,6 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.Sorcer",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.Sorcer",
     "skip-icons-check": true,
     "only-arches": ["x86_64"]
 }
